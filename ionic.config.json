@@ -1,6 +1,8 @@
 {
   "name": "nitipong2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "b354a4b0"
 }
